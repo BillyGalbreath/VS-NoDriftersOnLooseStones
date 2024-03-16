@@ -1,0 +1,12 @@
+{
+  "type": "content",
+  "name": "No Drifters On Loose Stones",
+  "modid": "nodriftersonloosestones",
+  "version": "1.0.0",
+  "description": "Prevent drifters from spawning on loose stones",
+  "authors": [ "BillyGalbreath" ],
+  "side": "Server",
+  "dependencies": {
+    "game": "1.19.3"
+  }
+}
